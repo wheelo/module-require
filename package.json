@@ -1,5 +1,5 @@
 {
-  "name": "module-require",
+  "name": "moduler",
   "version": "0.0.1",
   "description": "the minimum javascript module system you can think of",
   "main": "Module.js",
