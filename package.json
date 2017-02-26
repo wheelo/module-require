@@ -1,0 +1,20 @@
+{
+  "name": "module-require",
+  "version": "0.0.1",
+  "description": "the minimum javascript module system you can think of",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/wheelo/module-require.git"
+  },
+  "keywords": [
+    "module",
+    "require",
+    "define"
+  ],
+  "author": "wheelo",
+  "license": "MIT"
+}
